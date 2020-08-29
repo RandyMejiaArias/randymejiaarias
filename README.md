@@ -1,5 +1,5 @@
 <!-- Header  -->
-<h1 align="center">Hi 👋, I'm Randy Mejía Arias</h1>
+<h1 align="center">Hi 👋, I'm Randy</h1>
 <!-- Profile pic  -->
 <br>
 <!-- Description -->
