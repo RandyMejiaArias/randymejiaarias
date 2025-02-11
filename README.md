@@ -54,6 +54,12 @@
 </p>
 <p align="center"><img align=center src="https://user-images.githubusercontent.com/42918668/90352120-0109c880-e008-11ea-9481-6383f16f22c2.png" alt="randymejiaarias-logo" width="100" height="100"></p>
 
+###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/randymejiaarias/randymejiaarias/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
 
 <!-- Visitor counter -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=randymejiaarias&color=00153F" alt="randymejiaarias-visitor-counter" /> </p>
